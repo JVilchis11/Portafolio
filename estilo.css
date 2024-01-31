@@ -804,6 +804,12 @@ footer .arriba{
     .curriculum .fila .derecha{
         margin-left: 20px;
     }
+    .contenedor-tarjetas{
+        display: block;
+    }
+    .contenedor-tarjetas-contacto{
+        display: block;
+    }
 
     .portfolio .galeria{
         display: block;
